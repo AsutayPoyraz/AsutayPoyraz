@@ -10,6 +10,14 @@
   <a href="https://j-a-r-v-i-s.app" target="_blank">
     <img src="https://img.shields.io/badge/🤖_JARVIS_AI-LIVE_APP-7C3AED?style=for-the-badge&logo=probot&logoColor=white" alt="Jarvis AI App" />
   </a>
+  &nbsp;&nbsp;
+  <a href="mailto:contact.asutaypoyraz@gmail.com">
+    <img src="https://img.shields.io/badge/📧_CONTACT-D93829?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:poyrazasutayhoroz@gmail.com">
+    <img src="https://img.shields.io/badge/📬_PERSONAL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Personal Email" />
+  </a>
 </p>
 
 <div align="center">
