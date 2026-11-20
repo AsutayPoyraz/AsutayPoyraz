@@ -27,7 +27,7 @@
 | 👨‍💻 **Name** | Asutay Poyraz |
 | 📍 **Location** | Istanbul, Turkey |
 | 🚀 **Focus Areas** | AI Systems, Full-Stack Web, Desktop & Mobile Apps |
-| 🛠️ **Technologies** | Python, FastAPI, React, TypeScript, Kotlin, C++ |
+| 🛠️ **Technologies** | Python, FastAPI, TypeScript, JavaScript, CSS, HTML |
 
 </div>
 
@@ -35,7 +35,7 @@
 
 <h3 align="center">⚡ Tech Stack & Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,react,ts,kotlin,cpp,git,github,vscode,linux,tailwind,mongodb" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,ts,js,css,html,github,vscode,tailwind,mongodb" alt="Tech Stack" />
 </p>
 
 <br/>
