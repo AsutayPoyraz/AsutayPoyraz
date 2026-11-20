@@ -33,6 +33,13 @@
 
 <br/>
 
+<h3 align="center">⚡ Tech Stack & Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,react,ts,kotlin,cpp,git,github,vscode,linux,tailwind,mongodb" alt="Tech Stack" />
+</p>
+
+<br/>
+
 <h3 align="center">📊 GitHub Stats & Languages</h3>
 
 <p align="center">
@@ -41,4 +48,21 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsutayPoyraz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+<br/>
+
+<h3 align="center">🐍 GitHub Contribution Snake</h3>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AsutayPoyraz/AsutayPoyraz/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AsutayPoyraz/AsutayPoyraz/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AsutayPoyraz/AsutayPoyraz/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AsutayPoyraz&color=38BDF8&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Count" />
 </p>
