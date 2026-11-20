@@ -9,7 +9,7 @@
 | 👨‍💻 **Name** | Asutay Poyraz |
 | 📍 **Location** | Istanbul, Turkey |
 | 🚀 **Focus Areas** | AI Systems, Full-Stack Web, Desktop & Mobile Apps |
-| 🛠️ **Technologies** | Python, FastAPI, React, TypeScript, Kotlin, C++ |
+| 🛠️ **Technologies** | Python, FastAPI, TypeScript |
 
 </div>
 
