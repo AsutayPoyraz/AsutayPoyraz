@@ -2,6 +2,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=950&height=70&lines=%22Hayatta+en+hakiki+m%C3%BCr%C5%9Fit+ilimdir%2C+fendir.%22+-+Mustafa+Kemal+Atat%C3%BCrk;%22Science+is+the+most+genuine+guide+for+life.%22+-+Mustafa+Kemal+Atat%C3%BCrk;Python+%26+FastAPI+Developer;AI+Assistant+%26+Game+Developer" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <em>Keşfetmek için tıklayın –</em>
+</p>
+
+<p align="center">
+  <a href="https://j-a-r-v-i-s.app" target="_blank">
+    <img src="https://img.shields.io/badge/🤖_JARVIS_AI-LIVE_APP-7C3AED?style=for-the-badge&logo=probot&logoColor=white" alt="Jarvis AI App" />
+  </a>
+</p>
+
 <div align="center">
 
 | **Info** | **Detail** |
