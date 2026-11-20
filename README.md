@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=70&lines=Hello%2C+I'm+Asutay+Poyraz;Python+%26+FastAPI+Developer;AI+Assistant+%26+Game+Developer;React+%26+TypeScript" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&height=70&lines=%22Hayatta+en+hakiki+mürşit+ilimsendir%2C+fendir.%22+-+Atatürk;Asutay+Poyraz;Python+%26+FastAPI+Developer;AI+Assistant+%26+Game+Developer" alt="Typing SVG" />
 </p>
 
 <div align="center">
 
 | **Info** | **Detail** |
 | :--- | :--- |
-| 👨‍💻 **Developer** | Asutay Poyraz |
+| 👨‍💻 **Name** | Asutay Poyraz |
 | 📍 **Location** | Istanbul, Turkey |
 | 🚀 **Focus Areas** | AI Systems, Full-Stack Web, Desktop & Mobile Apps |
 | 🛠️ **Technologies** | Python, FastAPI, React, TypeScript, Kotlin, C++ |
