@@ -35,7 +35,7 @@
 
 <h3 align="center">⚡ Tech Stack & Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,ts,js,css,html,github,vscode,tailwind,mongodb" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,ts,js,css,html,github,vscode,tailwind" alt="Tech Stack" />
 </p>
 
 <br/>
