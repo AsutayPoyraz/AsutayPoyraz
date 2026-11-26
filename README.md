@@ -63,9 +63,9 @@
 
 <br/>
 
-<!-- Son 1 Ayın Aktivite Grafiği -->
+<!-- Son 1 Ayın Aktivite Grafiği (Başlıksız ve Temaya Uyumlu) -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AsutayPoyraz&hide_border=true&area=true&background=0d1117&color=38BDF8&line=38BDF8&point=38BDF8" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AsutayPoyraz&theme=tokyonight&hide_border=true&area=true&hide_title=true" alt="Activity Graph" />
 </p>
 
 <br/>
