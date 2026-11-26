@@ -52,7 +52,7 @@
 
 <br/>
 
-<h3 align="center">🐍 GitHub Contribution Snake</h3>
+<!-- Yılan animasyonu başlık olmadan doğrudan buraya konumlandırıldı -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AsutayPoyraz/AsutayPoyraz/output/github-contribution-grid-snake-dark.svg">
