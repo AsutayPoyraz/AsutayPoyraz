@@ -52,7 +52,7 @@
 
 <br/>
 
-<!-- Yılan animasyonu başlık olmadan doğrudan buraya konumlandırıldı -->
+<!-- Yılan animasyonu doğrudan katkı tablonuzun hemen üstüne yerleştirildi -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AsutayPoyraz/AsutayPoyraz/output/github-contribution-grid-snake-dark.svg">
