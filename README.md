@@ -74,3 +74,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AsutayPoyraz&color=38BDF8&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Count" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AsutayPoyraz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1&v=1.1" alt="GitHub Stats" />
+</p>
