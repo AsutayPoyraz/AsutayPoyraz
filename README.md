@@ -63,9 +63,9 @@
 
 <br/>
 
-<!-- Son 1 Ayın Aktivite Grafiği (Tokyonight Renk Paleti ve Başlığıyla) -->
+<!-- Son 1 Ayın Aktivite Grafiği (İstediğin Canlı Mavi Renk ve Başlıklı Hali) -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AsutayPoyraz&theme=tokyonight&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AsutayPoyraz&hide_border=true&area=true&color=38BDF8&line=38BDF8&point=38BDF8" alt="Activity Graph" />
 </p>
 
 <br/>
