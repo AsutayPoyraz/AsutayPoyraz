@@ -33,6 +33,13 @@
 
 <br/>
 
+<!-- Görüntülediğin Tarzda Teknik LLM / AI Pipeline Terminal Kartı -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&duration=5000&pause=1000&color=38BDF8&center=false&vCenter=true&width=850&height=50&lines=main+%E2%80%A2+HEAD+-%3E+evals%2Fpass-1;LLM+routing+%E2%80%A2+AI+Agents+%E2%80%A2+Python+%E2%80%A2+FastAPI+%E2%80%A2+DX" alt="Terminal Status" />
+</p>
+
+<br/>
+
 <h3 align="center">⚡ Tech Stack & Tools</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,ts,js,css,html,github,vscode,tailwind" alt="Tech Stack" />
@@ -56,14 +63,14 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AsutayPoyraz/AsutayPoyraz/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AsutayPoyraz/AsutayPoyraz/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AsutayPoxraz/AsutayPoyraz/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AsutayPoyraz/AsutayPoyraz/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
 <br/>
 
-<!-- Son 1 Ayın Aktivite Grafiği (İstediğin Canlı Mavi Renk ve Başlıklı Hali) -->
+<!-- Son 1 Ayın Aktivite Grafiği -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AsutayPoyraz&hide_border=true&area=true&color=38BDF8&line=38BDF8&point=38BDF8" alt="Activity Graph" />
 </p>
