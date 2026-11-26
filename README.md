@@ -70,13 +70,6 @@
 
 <br/>
 
-<!-- GitHub Streak Stats -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AsutayPoyraz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<br/>
-
 <!-- GitHub Trophies -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AsutayPoyraz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="GitHub Trophies" />
