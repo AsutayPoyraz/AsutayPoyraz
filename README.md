@@ -63,9 +63,9 @@
 
 <br/>
 
-<!-- Son 1 Ayın Aktivite Grafiği (Beğendiğin Orijinal Hali) -->
+<!-- Son 1 Ayın Aktivite Grafiği (Tokyonight Renk Paleti ve Başlığıyla) -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AsutayPoyraz&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AsutayPoyraz&theme=tokyonight&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
 <br/>
