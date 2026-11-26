@@ -66,3 +66,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AsutayPoyraz&color=38BDF8&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Count" />
 </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AsutayPoyraz&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="GitHub Trophies" />
+</p>
